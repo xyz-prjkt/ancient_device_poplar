@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- AncientOS Device Info -->
+    <string name="ancient_device_name_summary">Sony Xperia XZ1</string>
+    <string name="ancient_chipset_type_summary">Qualcomm Snapdragon™ 835</string>
+    <string name="ancient_gpu_summary">Adreno 540</string>
+    <string name="ancient_camera_mp_summary">19MP PDAF Laser AF Single Camera</string>
+    <string name="ancient_screen_type_summary">IPS LCD 5.2 Screen HDR10</string>
+
+    <!-- AncientOS About Maintainer Info -->
+    <string name="maintainer_name">xyzuan</string>
+
+</resources>
